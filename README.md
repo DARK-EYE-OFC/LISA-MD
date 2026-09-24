@@ -13,6 +13,7 @@
 
   
 ![banner](https//github.com/DARK-EYE-OFC/GANGSTER-MD/blob/main/Assets/bot_image.jpg)
+*replace with your fu932c.jpg link after uploading*
 
   <p align="center">
 <a href="https://github.com/mauricegift"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
