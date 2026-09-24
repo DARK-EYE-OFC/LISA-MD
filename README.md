@@ -12,8 +12,9 @@
 <a href="https://github.com/DARK-EYE-OFC/LISA-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
 
   
-![banner](https//github.com/DARK-EYE-OFC/GANGSTER-MD/blob/main/Assets/bot_image.jpg)
-*replace with your fu932c.jpg link after uploading*
+
+    <img src="https://github.com/DARK-EYE-OFC/GANGSTER-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+  </a> 
 
   <p align="center">
 <a href="https://github.com/mauricegift"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
