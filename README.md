@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
+<h1 align="center"> 𝐋𝐈𝐒𝐀-𝐌𝐃 𝐕 𝟓.𝟎.𝟎 </h1>
 
 - Bot is Safe for Heroku(only if you fork and deploy your own fork) so don't ask more questions
 
@@ -9,12 +9,10 @@
 
 - For Vps/Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
 
-<a href="https://github.com/mauricegift/gifted-md/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+<a href="https://github.com/DARK-EYE-OFC/LISA-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
 
   
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+[!banner](https//github.com/DARK-EYE-OFC/GANGSTER-MD/blob/main/Assets/bot_image.jpg 
 
   <p align="center">
 <a href="https://github.com/mauricegift"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
