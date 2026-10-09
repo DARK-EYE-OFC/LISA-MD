@@ -6,12 +6,12 @@ const path = require("path");
 module.exports = { 
     SESSION_ID: process.env.SESSION_ID, // Session ID must be put in .env to avoid loss during updating
     PREFIX: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇",
+    OWNER_NAME: process.env.OWNER_NAME || " 𝐃𝐀𝐑𝐊 𝐄𝐘𝐄 𝐓𝐄𝐂𝐇",
     OWNER_NUMBER : process.env.OWNER_NUMBER || "",  // put only one number
     SUDO_NUMBERS : process.env.SUDO_NUMBERS || "", // can be multiple numbers separated by commas
-    BOT_NAME : process.env.BOT_NAME || '𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃',
+    BOT_NAME : process.env.BOT_NAME || '𝐋𝐈𝐒𝐀 𝐌𝐃',
     FOOTER : process.env.FOOTER || 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ',
-    CAPTION : process.env.CAPTION || '©𝟐𝟎𝟐𝟒 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 𝐕𝟓',
+    CAPTION : process.env.CAPTION || '©𝟐𝟎𝟐𝟒 𝐐𝐔𝐄𝐄𝐍 𝐋𝐈𝐒𝐀 𝐌𝐃 𝐕𝟓',
     VERSION: process.env.VERSION || '5.0.0',
     BOT_PIC : process.env.BOT_PIC || 'https://gitcdn.giftedtech.co.ke/image/AZO_image.jpg',            
     MODE: process.env.MODE || "public",
@@ -39,13 +39,13 @@ module.exports = {
     AUTO_READ_MESSAGES : process.env.AUTO_READ_MESSAGES || 'false', // true/commands/false
     AUTO_BIO : process.env.AUTO_BIO || 'false',
     AUTO_BLOCK: process.env.AUTO_BLOCK || '',
-    YT: process.env.YT || 'youtube.com/@giftedtechnexus',
-    NEWSLETTER_JID: process.env.NEWSLETTER_JID || "120363425418645942@newsletter",
+    YT: process.env.YT || 'youtube.com/@dark-eye-officials',
+    NEWSLETTER_JID: process.env.NEWSLETTER_JID || "120463425418645942@newsletter",
     GC_JID: process.env.GC_JID || "GiD4BYjebncLvhr0J2SHAg",
     NEWSLETTER_URL: process.env.NEWSLETTER_URL || 'https://whatsapp.com/channel/0029VbC5WlPL7UVQ6AbK7x2n',
     BOT_REPO: process.env.BOT_REPO || 'mauricegift/gifted-md',
-    PACK_NAME: process.env.PACK_NAME || '𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃',
-    PACK_AUTHOR: process.env.PACK_AUTHOR || '𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇'
+    PACK_NAME: process.env.PACK_NAME || '𝐋𝐈𝐒𝐀 𝐌𝐃',
+    PACK_AUTHOR: process.env.PACK_AUTHOR || '𝐃𝐀𝐑𝐊 𝐄𝐘𝐄 𝐎𝐅𝐂'
 };
 
 let fileName = require.resolve(__filename);
