@@ -1,12 +1,12 @@
 {
-  "name": "gifted-md",
+  "name": "lisa-md",
   "version": "5.0.0",
-  "description": "I am Gifted-Md, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
-  "website": "https://session.giftedtech.co.ke",
-  "dev_email": "mauricegift@gmail.com",
-  "logo": "https://files.catbox.moe/52699c.jpg",
-  "keywords": ["gifted-md"],
-  "repository": "https://github.com/mauricegift/gifted-md",
+  "description": "I am Queen Lisa-Md, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
+  "website": "${deployment.link}",
+  "dev_email": "dark-eye-official@gmail.com",
+  "logo": "https://github.com/DARK-EYE-OFC/GANGSTER-MD/blob/main/assets/bot_image.jpg",
+  "keywords": ["lisa-md"],
+  "repository": "https://github.com/DARK-EYE-OFC/lisa-md",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -23,12 +23,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "PRINCE"
+      "value": "THEON-ALEX"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
       "required": true,
-      "value": "237677224245"
+      "value": "263788279395"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
@@ -63,7 +63,7 @@
     "STATUS_REPLY_MSG": {
       "description": "Set your status reply message to be sent after bot views status",
       "required": false,
-      "value": "Status Viewed ✅️"
+      "value": "Status Viewed ✅️ by Queen Lisa-Md"
     },
     "AUTO_READ_MESSAGES": {
       "description": "Enter value to 'true' for blueticking all messages, or 'commands' for blueticking only commands else false. You can set up this later using .autoread",
@@ -94,7 +94,7 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗"
+      "value": "QUEEN LISA MD"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
