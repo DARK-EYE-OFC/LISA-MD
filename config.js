@@ -10,14 +10,14 @@ module.exports = {
     OWNER_NUMBER : process.env.OWNER_NUMBER || "",  // put only one number
     SUDO_NUMBERS : process.env.SUDO_NUMBERS || "", // can be multiple numbers separated by commas
     BOT_NAME : process.env.BOT_NAME || '𝐋𝐈𝐒𝐀 𝐌𝐃',
-    FOOTER : process.env.FOOTER || 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ',
+    FOOTER : process.env.FOOTER || 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ᴇʏᴇ  ᴛᴇᴄʜ',
     CAPTION : process.env.CAPTION || '©𝟐𝟎𝟐𝟒 𝐐𝐔𝐄𝐄𝐍 𝐋𝐈𝐒𝐀 𝐌𝐃 𝐕𝟓',
     VERSION: process.env.VERSION || '5.0.0',
     BOT_PIC : process.env.BOT_PIC || 'https://gitcdn.giftedtech.co.ke/image/AZO_image.jpg',            
     MODE: process.env.MODE || "public",
     PM_PERMIT: process.env.PM_PERMIT || 'false',
     WARN_COUNT : process.env.WARN_COUNT || '3' ,
-    TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi",
+    TIME_ZONE: process.env.TIME_ZONE || "Africa/Harare",
     DM_PRESENCE : process.env.DM_PRESENCE || 'online', // recording/typing/online/offline
     GC_PRESENCE : process.env.GC_PRESENCE || 'online', // recording/typing/online/offline
     CHATBOT : process.env.CHATBOT || 'false', // can be true/audio/false   
