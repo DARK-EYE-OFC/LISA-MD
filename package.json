@@ -1,7 +1,7 @@
 {
-  "name": "gifted-md",
+  "name": "lisa-md",
   "version": "5.0.0",
-  "description": "Gifted-Md, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
+  "description": "Queen Lisa-Md, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
   "main": "./index.js",
   "type": "commonjs",
   "engines": {
@@ -9,16 +9,16 @@
     "node": "22.x"
   },
   "scripts": {
-    "start": "pm2 start index.js --name giftedmd",
-    "stop": "pm2 stop giftedmd",
-    "restart": "pm2 restart giftedmd"
+    "start": "pm2 start index.js --name lisa-md",
+    "stop": "pm2 stop lisa-md",
+    "restart": "pm2 restart lisa-md"
   },
   "keywords": [
-    "gifted-md",
+    "lisa-md",
     "whatsapp-bot",
-    "giftedtech"
+    "dark-eye-tech"
   ],
-  "author": "GiftedTech",
+  "author": "DARK-EYE-TECH",
   "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.0",
@@ -59,10 +59,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauricegift/gifted-md.git"
+    "url": "git+https://github.com/DARK-EYE-OFC/LISA-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/mauricegift/gifted-md/issues"
+    "url": "https://github.com/DARK-EYE-OFC/LISA-MD/issues"
   },
-  "homepage": "https://github.com/mauricegift/gifted-md#readme"
+  "homepage": "https://github.com/DARK-EYE-OFC/LISA-MD#readme"
 }
